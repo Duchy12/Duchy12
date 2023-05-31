@@ -37,7 +37,6 @@ Hey there! I'm a 16-year-old computer science student, and I'm totally stoked ab
 
 #
 
-<PC_SPECS>
 |             🖥 Desktop             |             💻 Laptop              |
 |:----------------------------------:|:----------------------------------:|
 |     CPU: Ryzen 5 7600X             |     CPU: Ryzen 7 5800H             |
