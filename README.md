@@ -28,7 +28,9 @@ Hey there! I'm a 16-year-old computer science student, and I'm totally stoked ab
 <img align="left" alt="Bash" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
 <img align="left" alt="Windows" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+<br />
 
 #
+
 
 ![Duchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duchy12&show_icons=true&theme=dark)
