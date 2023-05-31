@@ -32,5 +32,15 @@ Hey there! I'm a 16-year-old computer science student, and I'm totally stoked ab
 
 #
 
-
+### 🗿 Stats
 ![Duchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duchy12&show_icons=true&theme=dark)
+
+#
+
+<details>
+    <summarry><h3>PC Specs</h3></summarry>
+    🖥 Desktop                              💻 Laptop \
+    CPU: Ryzen 5 7600X                      CPU: Ryzen 7 5800H \
+    GPU: RX 7900XT                          GPU: RTX 3070 \
+    RAM: 32GB 5600MT/s @ CL36               RAM: 16GB 3200MT/s \
+    STORAGE: 990 PRO & 980 (Both 1TB)       STORAGE: OEM SAMSUNG SSD (equivalent to 980)
