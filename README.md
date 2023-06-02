@@ -2,7 +2,7 @@
 
 **`Fulltime student & Dev `**
 
-Hey there! I'm a 16-year-old computer science student, and I'm totally stoked about the whole cybersecurity and red teaming scene. While I dig coding in general, I'm all about the adrenaline rush of offensive security. Join me on this epic adventure as we break shit!
+Hey there! I'm a 16-year-old computer science student, and I'm interested in cybersecurity(red teaming) & programming.
 
 <!-- Props to DenverCoder1 & ForrestKnight for this -->
    <p align="left">
