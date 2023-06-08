@@ -15,7 +15,7 @@ Hey there! I'm a 16-year-old computer science student, and I'm interested in cyb
       <a href="https://github.com/Duchy12?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Duchy12?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://discord.com/users/498036626249744384">
-         <img alt="discord" src="https://img.shields.io/badge/My-Discord-%235865F2.svg"></a>
+         <img alt="discord" src="https://custom-icon-badges.demolab.com/badge/-duchy-4169e1?style=for-the-badge&label=Discord&logo=discord"></a>
    </p>
 
 ---
