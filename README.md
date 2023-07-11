@@ -2,8 +2,6 @@
 
 **`Fulltime student & Dev `**
 
-Hey there! I'm a 16-year-old computer science student, and I'm interested in cybersecurity(red teaming) & programming.
-
 <!-- Props to DenverCoder1 & ForrestKnight for this -->
    <p align="left">
       <a href="https://www.youtube.com/channel/UCTzGF-2xcZFAw6ebQRdPM9w?sub_confirmation=1">
