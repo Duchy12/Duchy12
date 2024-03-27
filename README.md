@@ -40,5 +40,5 @@
 |     CPU: Ryzen 9 7950X             |     CPU: Ryzen 7 5800H             |     CPU: I5 10400F                 |
 |     GPU: RX 7900XT                 |     GPU: RTX 3070                  |     GPU: X                         |
 |     RAM: 32GB 5600MT/s @ CL36      |     RAM: 16GB 3200MT/s             |     RAM: 64GB 3200MT/s @ CL16      |
-|     STORAGE: 990 PRO & 980 (1TB)   |     STORAGE: OEM SAMSUNG SSD       |     STORAGE: 256GB ADATA M.2 + 3.5TB HDD|
+|     STORAGE: 990 PRO & 980 (1TB)   |     STORAGE: 256GB ADATA M.2       |     STORAGE: OEM SAMSUNG SSD + 4.5TB HDD|
 |     OS: Arch Linux                 |     OS: Arch Linux                 |     OS: Proxmox 8                  |
