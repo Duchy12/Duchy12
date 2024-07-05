@@ -30,11 +30,6 @@
 
 #
 
-### 🗿 Stats
-![Duchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duchy12&show_icons=true&theme=dark)
-
-#
-
 |             🖥 Desktop             |             💻 Laptop               |             🖥 Server             |
 |:----------------------------------:|:----------------------------------:|:----------------------------------:|
 |     CPU: Ryzen 9 7950X             |     CPU: Ryzen 7 5800H             |     CPU: I5 10400F                 |
