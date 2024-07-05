@@ -1,5 +1,3 @@
-# 🐱‍👤 Duchy
-
 **`Fulltime student & Dev `**
 
 <!-- Props to DenverCoder1 & ForrestKnight for this -->
