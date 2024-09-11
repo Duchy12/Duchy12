@@ -1,4 +1,4 @@
-**`Fulltime student & Dev `**
+**`Fulltime student`**
 
 <!-- Props to DenverCoder1 & ForrestKnight for this -->
    <p align="left">
